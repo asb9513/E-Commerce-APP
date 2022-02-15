@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "red-and-white-shopping-logo-ecommerce-design-template-792ebefe19b6f9548d8a87df6247dca4_screen.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "red-and-white-shopping-logo-ecommerce-design-template-792ebefe19b6f9548d8a87df6247dca4_screen@2x.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "red-and-white-shopping-logo-ecommerce-design-template-792ebefe19b6f9548d8a87df6247dca4_screen@3x.jpg",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

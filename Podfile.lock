@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.9.1)
+  - BSGridCollectionViewLayout (1.2.5)
+  - BSImagePicker (2.6.0):
+    - BSGridCollectionViewLayout (~> 1.2.0)
+    - UIImageViewModeScaleAspect (= 1.5)
+  - Gemini (1.4.0)
+  - Kingfisher (4.10.1)
+  - RxCocoa (5.1.3):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.3):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.3)
+  - SKActivityIndicatorView (0.1.0)
+  - UIImageViewModeScaleAspect (1.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - BSImagePicker (~> 2.4)
+  - Gemini
+  - Kingfisher
+  - RxCocoa (~> 5.1.0)
+  - RxSwift (~> 5.1.0)
+  - SKActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BSGridCollectionViewLayout
+    - BSImagePicker
+    - Gemini
+    - Kingfisher
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SKActivityIndicatorView
+    - UIImageViewModeScaleAspect
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  BSGridCollectionViewLayout: 333dcb457a5a3bdd9212607ab5756553dcfe06cb
+  BSImagePicker: 7b740d0a9f23160bcdca01f179445583bd1c09b0
+  Gemini: 4ad915cca8805577fe3021e02feeca2b77dcdbfc
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  RxCocoa: e2ed092d5432e4296aa818021d27de4090ac0354
+  RxRelay: 5a18c2eb2d68326ebaf0112f80d837ae41b92b97
+  RxSwift: 915abbdfb62214aa89ccd0b194d44fb478019b27
+  SKActivityIndicatorView: f46936f760d33eb8235333242269bf01cc9248ae
+  UIImageViewModeScaleAspect: 11a790a0b9d248a13dc63e3a78991f1463b6d84e
+
+PODFILE CHECKSUM: 59a02497bfc1d75f0990cafb4330e36d7d20293c
+
+COCOAPODS: 1.11.2
